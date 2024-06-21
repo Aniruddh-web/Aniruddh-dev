@@ -1,11 +1,11 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: monospace;
+  font-family:monospace;
 }
 
 body {
-  background-color: #ADD8E6;
+  background-color: #add8e6;
   text-align: center;
 }
 
@@ -31,7 +31,7 @@ body {
   height: 18vmin;
   width: 18vmin;
   border-radius: 1rem;
-  border: none;
+  border:none ;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
   font-size: 8vmin;
   color: #b0413e;
@@ -40,7 +40,7 @@ body {
 
 #reset-btn {
   padding: 1rem;
-  font-size: 1.25rem;
+  font-size: 2rem;
   background-color: #191913;
   color: #fff;
   border-radius: 1rem;
@@ -75,4 +75,12 @@ body {
 }
 #x{
   font-size: 60px;
+}
+#Help-btn{
+  padding: 1rem;
+  font-size: 2rem;
+  background-color: #191913;
+  color: #fff;
+  border-radius: 1rem;
+  border: none;
 }
